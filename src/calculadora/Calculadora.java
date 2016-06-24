@@ -42,7 +42,7 @@ public class Calculadora {
         return Math.pow(a, b);
     }
     
-    string sms(string sms){
-        return "*" + sms + "*";
+     double valorabsoluto(int a){
+        return Math.abs(a);
     }
-}
+ }
